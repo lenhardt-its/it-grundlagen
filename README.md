@@ -7,21 +7,7 @@
 * [ ] Grundlegende Computerarchitektur (CPU, RAM, HDD/SSD, Mainboard - Was ist was?)
 * [ ] Zweck eines Betriebssystems (OS): Ressourcenverwaltung, Abstraktion
 
-## Stufe 1: BETRIEBSSYSTEM-INTERAKTION (Linux im Fokus)
-
-**Benötigt: Stufe 0**
-
-* [ ] Linux-Distributionen (Überblick: Debian/Ubuntu, RHEL/CentOS...) & FHS (Verzeichnisstruktur)
-* [ ] Die Shell (Bash):
-    * [ ] Navigation (`cd`, `pwd`, `ls`)
-    * [ ] Dateioperationen (`cp`, `mv`, `rm`, `mkdir`, `touch`)
-    * [ ] Text anzeigen (`cat`, `less`, `more`, `head`, `tail`)
-    * [ ] Textsuche (`grep` Grundlagen)
-    * [ ] Hilfe nutzen (`man`, `--help`, `apropos`)
-* [ ] Texteditoren (Grundlagen `nano` / `vim`)
-* [ ] Ein-/Ausgabeumleitung & Pipes (`>`, `>>`, `|`, `<`)
-
-## Stufe 2: KERNKONZEPTE SYSTEM & NETZWERK
+## Stufe 1: KERNKONZEPTE SYSTEM & NETZWERK
 
 **Benötigt: Stufe 1**
 
@@ -50,6 +36,19 @@
                 [ ] Server-Komponenten (CPU/RAM Typen, ECC)
                 [ ] Speichertechnologien (HDD/SSD/NVMe, Interfaces: SATA/SAS)
 ```
+## Stufe 2: BETRIEBSSYSTEM-INTERAKTION (Linux im Fokus)
+
+**Benötigt: Stufe 0**
+
+* [ ] Linux-Distributionen (Überblick: Debian/Ubuntu, RHEL/CentOS...) & FHS (Verzeichnisstruktur)
+* [ ] Die Shell (Bash):
+    * [ ] Navigation (`cd`, `pwd`, `ls`)
+    * [ ] Dateioperationen (`cp`, `mv`, `rm`, `mkdir`, `touch`)
+    * [ ] Text anzeigen (`cat`, `less`, `more`, `head`, `tail`)
+    * [ ] Textsuche (`grep` Grundlagen)
+    * [ ] Hilfe nutzen (`man`, `--help`, `apropos`)
+* [ ] Texteditoren (Grundlagen `nano` / `vim`)
+* [ ] Ein-/Ausgabeumleitung & Pipes (`>`, `>>`, `|`, `<`)
 
 # Stufe 3: AUFBAUENDE INFRASTRUKTUR & DIENSTE
 
